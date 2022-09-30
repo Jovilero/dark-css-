@@ -1,0 +1,44 @@
+
+
+body, html, element, root {
+    background: #393939;
+        color:#5c5c5c
+        }
+.panel, #content-wrapper {
+    background: #4a4949;
+    background-color: #5c5c5c;
+     } 
+.important {
+    color: #000;
+}
+
+root{
+    gradient-color-3: #4a4949
+    } 
+
+gw-graph-tree-wrapper.languet {
+    background-color: #4a4949;
+}
+content {
+    background: #aa0404;
+}
+
+.panel.bloc-resultats-recherche .ligne-resultat, h1{
+    color: #000;
+}
+
+.fake-a, a {
+    color: #0a835e;
+}
+.search-filters-block .search-filter-block.closed {
+    background-color: #4a4949;
+}
+
+.panel .gray-subpanel, .reveal-modal .gray-subpanel {
+    background: #4a4949;
+    -color: #000;
+    background-color: #4a4949;
+    }
+.text-light {
+    color: #a72424!important;
+}

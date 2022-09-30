@@ -1,0 +1,191 @@
+/*
+@name           Blue mysql
+@author         Jovi based on lvco
+@description    `MySQL`
+@version        1.0.0
+@namespace      mysql
+*/
+
+
+
+    BODY {
+        background-color: #000 !important;
+        color:            #f000 !important;
+    }
+
+    BUTTON, SELECT     { color: #f00 !important; background-color: #f000 !important; }
+    INPUT[type=button] { color: #fff !important;background-color: #ffffff75 !important; }
+    TEXTAREA           { color: #f000 !important; background-color: #00ff0d4d !important;}
+
+    A:link    { color: #00fbff     !important;  background-color: #f000 !important; }
+    A:visited { color: #a600ff !important;  background-color: #f000 !important; }
+    A:hover   { color: #0f0    !important; background-color: #b4984a82 !important;  }
+
+    DIV#current_pane, DIV.dijitTabPaneWrapper, TR.alt,
+    DIV.alert02, DIV.dijitTabChecked {
+        background-color: rgba(255, 0, 0, .45) !important;
+    }
+    DIV.section DIV.titlepage H3 {
+        background-color: rgba(105, 68, 142, .26) !important;
+        color: rgb(255, 0, 0) !important;
+    }
+    DIV.section DIV.titlepage H4 {
+        background-color: rgb(255, 0, 0) !important;
+        color: #0000 !important;
+    }
+    CODE.literal, STRONG {
+        background-color: transparent !important;
+        color: #ff0000ba !important;
+    }
+    PRE.programlisting {
+        background-color: rgba(89, 53, 53, 0) !important;
+        color: #f00 !important;
+    }
+    #menu {
+        background-image: none !important;
+
+    }
+    #mysql_menu {
+        background-image: none !important;
+
+    }
+    #tab_last {
+        background-image: none !important;
+        background-color: rgb(255, 238, 0) !important;
+    }
+    #tab_last UL {
+        background-image: none !important;
+        background-color: rgba(0, 0, 0, .42) !important;
+
+    }
+    #tab_last LI {
+        background-color: #f00 !important;
+        border-top-left-radius:  10px !important;
+        border-top-right-radius: 10px !important;
+        margin: 2px !important;
+
+    }
+    #tab_last LI.first {
+        background-image: none !important;
+
+    }
+    #tab_last LI.first A {
+        padding: 5px 20px !important;
+ 
+    }
+    #tab_last LI.second A {
+        background-image: none !important;
+        padding: 5px 20px !important;
+
+    }
+    #tab_last LI.current A {
+        background-image: none !important;
+        background-color: rgba(0, 0, 0, .61) !important;
+        padding: 5px 20px !important;
+
+    }
+    #docs-body pre{
+        background-color: rgba(0, 0, 0, .61) !important;
+        color: rgba(255, 255, 255, .61) !important;
+    }
+    #page > DIV {
+        background-color:#123656 !important;
+        color: #b5a188 !important;
+    }
+    #footer {
+        background-color: rgb(0, 0, 0) !important;
+        color: #b58888 !important;
+    }
+    #l1-nav li {
+        display: inline-block;
+        list-style-type: none;
+        background-color: #fff0;
+        text-transform: uppercase;
+        font-size: 115%;
+        font-weight: 200;
+        margin-right: 30px;
+        padding-bottom: 10px;
+        border-bottom: 7px solid transparent;
+    }
+    .docs-sidebar-header {
+        border-top: 0px solid #fff0;
+        border-bottom: 0px solid #fff0;
+        color: #939393;
+        padding:5px 5px 0px 1px;
+        margin-top: 1px;
+        font-size: 100%;
+        vertical-align:center;
+        box-shadow: 0 0 0 40px #123656 inset;
+        
+    }
+    .token.command, .token.atrule, .token.attr-value, .token.keyword, .token.coord {
+    color: #fff;
+       text-shadow:  1px #fff;
+}
+    .token.property, .token.tag, .token.boolean, .token.number, .token.constant, .token.symbol, .token.deleted {
+    color: #f00;
+         text-shadow:  0px #fff;
+}
+    div.warning, div.note, div.important, div.tip, div.caution {
+    border-left: 1px solid #3e78a6;
+    background: #fff;
+    padding: 1px 1px 1px 1px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+    html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background-color: #123656 ;
+    text-shadow: 0px #fff;
+    }
+    div.chapter code, div.section code {
+    color: #fff;
+    font-weight: 400;
+    font-family: "Courier New",Courier,fixed,monospace;
+    font-size: 95%;
+}
+    
+   div.chapter code[class*="language-"], div.section code[class*="language-"], code[class*="language-"], pre[class*="language-"] {
+    color: #fff;
+    background: #123656;
+    text-shadow: 0 0px #fff0;
+    font-family: "Liberation Mono",Consolas,Monaco,'Andale Mono','Ubuntu Mono',monospace;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+   -ms-hyphens: none;
+    hyphens: none;
+}
+    #footer-bottom {
+    background: #123656;
+    color: #123656;
+    padding: 5px 10px 5px 30px;
+    box-shadow: 0 0 0 40px #123656 inset;
+}
+    div.warning, div.note, div.important, div.tip, div.caution {
+    border-left: 1px solid #fff;
+    background: #fff0;
+    padding: 1px 1px 1px 1px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+ span.emphasis em {
+    color: #fff;
+    text-shadow: 0 0px #fff;
+}
+#docs-body thead td, #docs-body thead th {
+    background-color: #000;
+}

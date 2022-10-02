@@ -1,0 +1,66 @@
+.css-flvdhc .navigation-header {
+    background-color: #838383b8
+}
+
+.css-flvdhc .navigation-content {
+    background-color: #838383b8
+}
+
+.day0_ddwlgof {
+    --gray00: #838383b8;
+  
+    --blue02: #b6b6b6;
+    
+    --green02: #838383b8;
+
+    --yellow02: #838383b8;
+    --yellow02a: rgba(184,156,0,0.071);
+   
+    --red02: #838383b8;
+    --red02a: rgba(232,46,0,0.043);
+   
+    --purple02: #838383b8;
+  
+    --danger02: #838383b8;
+   
+    --gradient-color-base: 100%;
+    color: #000;
+    background: #838383b8;
+}
+
+
+.css-scc9mg {
+    background-color: #838383b8;
+    border-bottom:  #838383b8;
+}
+
+
+
+.containerCss_c1w181ss {
+    background: var(--gray01);
+}
+
+.listItemCss_l16lb2x8  {
+    background-color: #b6b6b6;
+}
+
+
+.highCss_h12n07gz {
+    --button-text-color: #ffffffb8;
+}
+
+.ex_thinnerBreakpoints #header {
+    border-bottom: 1px solid #b6b6b6;
+    background-color: #b6b6b6;
+}
+
+
+fs-combo-record-list .record-list-table tr td {
+    background-color: #b6b6b6;
+}
+
+.fs-subnav, .fs-subnav__container{
+    background-color:#b6b6b6;
+        color: #b6b6b6;
+}
+

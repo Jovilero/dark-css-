@@ -1,8 +1,8 @@
 
 
-body, html, element, root {
-    background: #393939;
-        color:#5c5c5c
+body, html, element, root, .cadre, #side-fiche, #side-fiche .fiche-block, .gw-footer   {
+    background: #333232;
+        color:#fff
         }
 .panel, #content-wrapper {
     background: #4a4949;
@@ -12,9 +12,6 @@ body, html, element, root {
     color: #000;
 }
 
-root{
-    gradient-color-3: #4a4949
-    } 
 
 gw-graph-tree-wrapper.languet {
     background-color: #4a4949;
@@ -28,7 +25,7 @@ content {
 }
 
 .fake-a, a {
-    color: #0a835e;
+    color: #389683;
 }
 .search-filters-block .search-filter-block.closed {
     background-color: #4a4949;
@@ -41,4 +38,27 @@ content {
     }
 .text-light {
     color: #a72424!important;
+}
+
+#gw-individual-header #gw-individual-menu nav.top-bar {
+    background-color: #389683;
+    color: #675a5a;
+}
+
+
+#gw-individual-header #gw-individual-menu .contain-to-grid.fixed {
+    border-bottom: #cdcdcd;
+
+    background-color: #389683;
+}
+
+#gw-individual-header #gw-individual-menu ul.menu>li>a {
+    color: black;
+    background-color: #389683;
+}
+
+#gw-individual-header #gw-individual-menu {
+    border-bottom:  #cdcdcd;
+    background: #389683;
+    height: 39px;
 }

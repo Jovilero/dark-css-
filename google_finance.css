@@ -1,0 +1,110 @@
+/* ==UserStyle==
+@name           www.google.com/finance/quote/CSCO:NASDAQ - abr 2024
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+
+
+@-moz-document url-prefix("https://www.google.com/finance/") {
+    
+    .CrPloe,.lzO0Ed,
+    
+    .FEFWbc,.RCcRmb,
+    .gb_Ra:not(.gb_Sa) .gb_sd,
+    .gb_hd .gb_pd,
+    .T4LgNb, .TkL5bb, 
+    .PxxJne,
+    .Hm1r6d ,
+    .ZvmM7, 
+    .YMlKec, 
+    .q0mqEc, 
+    .j0CqVc, 
+    .Ej6xqf, 
+    .XNdmd,
+    .NrF3hd, 
+    .AHyjFe, 
+    .pKBk1e, 
+    .pxFzCf, 
+    .TwnKPb,
+    .tOzDHb,
+    .ZB3Ebc .ZAGvjd,
+    .CrPloe .Npx9Xe,
+    .yV3rjd,
+    .ECi4Zd,
+    .slpEwd,
+    .roXhBd,
+    .J9Jhg,
+    .QXDnM,
+    .gyFHrc
+    {
+        color:#fff
+    }
+    
+    c-wiz    {
+        background:#000;
+        
+    }
+
+    .fW22Te,.mLoZRc, .htyage, .ml2Uge, .gb_Ra:not(.gb_Sa) .gb_sd,
+    .gb_hd .gb_pd,
+    .T4LgNb, .TkL5bb, .tOzDHb , 
+    .ZB3Ebc, .ZAGvjd, .T4LgNb, 
+    .TkL5bb , .vReuC, .BqbP5c,
+    .onRPD 
+    {
+        background:#000;
+        
+    }
+    
+    .tOzDHb {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        padding: 12px 8px 12px 12px        
+    }
+
+
+    .ZB3Ebc .ZAGvjd {
+        -webkit-text-fill-color: red;
+       
+    }
+    .pFZ9G {
+
+    text-shadow: white 0px 0 0, white 0px 0 0, white 0 0px 0, white 0 0px 0;
+}
+    
+
+    .ONLisb{
+        color:black
+    } 
+    
+    .mfs7Fc, .qIEjSe, .P6K39c, .PdOqHc,.yNnsfe,.KcpzD,.yY6Ze, .qNqwJf, .fbt0Xc, .Yfwt5{
+        color:#bfbebe
+    }
+    
+    .stxVfe .GqNdIe{ 
+        color:rgb(0, 128, 255)
+    }
+    .nz7KN {
+        padding-left: 54px;
+        padding-right: 54px;
+        box-shadow: 
+        0 1px 12px rgb(0, 128, 255), 
+        0 1px 12px rgb(0, 128, 255);}
+        }
+
+    .NaLFgc:hover,    
+    .yY3Lee:hover,   
+    .SxcTic:hover,   
+    .vReuC:hover,   
+    .AHyjFe:not(.QwFhgb):focus,  
+    .AHyjFe:hover,   
+    .Zcuy2:hover,
+    .onRPD:hover
+    {
+        background:#00bfff33
+    }

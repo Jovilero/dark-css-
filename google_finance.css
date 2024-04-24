@@ -38,7 +38,8 @@
     .roXhBd,
     .J9Jhg,
     .QXDnM,
-    .gyFHrc
+    .gyFHrc,
+    .Ly3r6e
     {
         color:#fff
     }
@@ -53,7 +54,10 @@
     .T4LgNb, .TkL5bb, .tOzDHb , 
     .ZB3Ebc, .ZAGvjd, .T4LgNb, 
     .TkL5bb , .vReuC, .BqbP5c,
-    .onRPD 
+    .onRPD,
+    .IqBfM,
+    .n37Dyc,
+    .bE9oT
     {
         background:#000;
         
@@ -102,9 +106,13 @@
     .SxcTic:hover,   
     .vReuC:hover,   
     .AHyjFe:not(.QwFhgb):focus,  
+    .AHyjFe:not(.QwFhgb):hover,  
     .AHyjFe:hover,   
     .Zcuy2:hover,
-    .onRPD:hover
-    {
+    .onRPD:hover,
+    .n37Dyc:hover,
+    .bE9oT:hover,
+    .VfPpkd-LgbsSe:hover
+     {
         background:#00bfff33
-    }
+     }

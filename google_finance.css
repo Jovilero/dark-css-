@@ -12,7 +12,7 @@
     
     .CrPloe,.lzO0Ed,
     
-    .FEFWbc,.RCcRmb,
+    .uDqevd, .FEFWbc,.RCcRmb, 
     .gb_Ra:not(.gb_Sa) .gb_sd,
     .gb_hd .gb_pd,
     .T4LgNb, .TkL5bb, 
@@ -39,7 +39,23 @@
     .J9Jhg,
     .QXDnM,
     .gyFHrc,
-    .Ly3r6e
+    .Ly3r6e,
+    .XDfclc,
+    .IifuId,
+    .G5a7c,
+    .nVwHK,
+    .VfPpkd-LgbsSe .VfPpkd-vQzf8d,
+    .YMlKec,
+    .gb_1d:not(.gb_Ie) button,
+    .fgdCnd.HcKLRc,
+    .qIEjSe.bjCJpf,
+    .Z63m9d.bjCJpf,
+    .Usd1Ac,
+    .rvZejd,
+    .sZflkf,
+    .vkk5M,
+    .ndsAEb 
+    
     {
         color:#fff
     }
@@ -49,7 +65,7 @@
         
     }
 
-    .fW22Te,.mLoZRc, .htyage, .ml2Uge, .gb_Ra:not(.gb_Sa) .gb_sd,
+    .SliEQd, .fW22Te,.mLoZRc, .htyage, .ml2Uge, .gb_Ra:not(.gb_Sa) .gb_sd,
     .gb_hd .gb_pd,
     .T4LgNb, .TkL5bb, .tOzDHb , 
     .ZB3Ebc, .ZAGvjd, .T4LgNb, 
@@ -57,7 +73,11 @@
     .onRPD,
     .IqBfM,
     .n37Dyc,
-    .bE9oT
+    .bE9oT,
+    .gb_1d ,
+    .VOEIyf .jBmls,
+    .gb_1d.gb_we,
+    .fgdCnd.HcKLRc
     {
         background:#000;
         
@@ -86,12 +106,22 @@
         color:black
     } 
     
-    .mfs7Fc, .qIEjSe, .P6K39c, .PdOqHc,.yNnsfe,.KcpzD,.yY6Ze, .qNqwJf, .fbt0Xc, .Yfwt5{
+      .gb_1d:not(.gb_Ie) button, .lUuFj, .mfs7Fc, .qIEjSe, .P6K39c, .PdOqHc,.yNnsfe,.KcpzD,.yY6Ze, .qNqwJf, .fbt0Xc, .Yfwt5{
         color:#bfbebe
     }
     
     .stxVfe .GqNdIe{ 
         color:rgb(0, 128, 255)
+    }
+    .dFVrsd .AyIYI{
+        border:rgb(0,128,2555)
+    }
+    
+     .dFVrsd, .gb_1d, .gb_1d.gb_we{
+        box-shadow: 
+        0 1px 12px rgb(0, 128, 255), 
+        0 1px 12px rgb(0, 128, 255);
+        
     }
     .nz7KN {
         padding-left: 54px;
@@ -101,6 +131,8 @@
         0 1px 12px rgb(0, 128, 255);}
         }
 
+    .VfPpkd-YVzG2b:hover,
+    .VuraBe:hover,
     .NaLFgc:hover,    
     .yY3Lee:hover,   
     .SxcTic:hover,   
@@ -112,7 +144,15 @@
     .onRPD:hover,
     .n37Dyc:hover,
     .bE9oT:hover,
-    .VfPpkd-LgbsSe:hover
+    .VfPpkd-LgbsSe:hover,
+    .fgdCnd.HcKLRc:hover,
+    .Usd1Ac:hover,
+    .Usd1Ac,
+    .dFVrsd .AyIYI,
+    .AyIYI:hover, .AyIYI:focus,
+.fgdCnd:hover
+
+
      {
-        background:#00bfff33
+        background:#7ecece4f
      }

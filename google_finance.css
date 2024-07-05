@@ -11,10 +11,12 @@
 @-moz-document url-prefix("https://www.google.com/finance/") {
     
     .CrPloe,.lzO0Ed,
+    .g4E9Cb .ZAGvjd,
     
     .uDqevd, .FEFWbc,.RCcRmb, 
     .gb_Ra:not(.gb_Sa) .gb_sd,
-    .gb_hd .gb_pd,
+    .gb_hd .gb_pd, #gb#gb a.gb_d,
+    .gb_Oc,
     .T4LgNb, .TkL5bb, 
     .PxxJne,
     .Hm1r6d ,
@@ -55,19 +57,23 @@
     .sZflkf,
     .vkk5M,
     .ndsAEb ,
-    .c85eIb
-    
+    .c85eIb,
+    .hSGhwc
     {
         color:#fff
     }
     
-    c-wiz    {
-        background:#000;
-        
-    }
 
-    .SliEQd, .fW22Te,.mLoZRc, .htyage, .ml2Uge, .gb_Ra:not(.gb_Sa) .gb_sd,
+   
+    
+    c-wiz,  
+    .gb_ga:not(.gb_Ia) .gb_id,
+    .SliEQd, .fW22Te,.mLoZRc, .htyage, .ml2Uge, 
+    .gb_Ra:not(.gb_Sa) .gb_sd,
+    .gb_Qa:not(.gb_Ra) .gb_rd,
     .gb_hd .gb_pd,
+    .gb_0d,
+    
     .T4LgNb, .TkL5bb, .tOzDHb , 
     .ZB3Ebc, .ZAGvjd, .T4LgNb, 
     .TkL5bb , .vReuC, .BqbP5c,
@@ -78,11 +84,16 @@
     .gb_1d ,
     .VOEIyf .jBmls,
     .gb_1d.gb_we,
-    .fgdCnd.HcKLRc
+    .fgdCnd.HcKLRc,
+    .hSGhwc
+    
+   
     {
         background:#000;
         
     }
+
+
     
     .tOzDHb {
         box-sizing: border-box;
@@ -97,6 +108,7 @@
         -webkit-text-fill-color: red;
        
     }
+    
     .pFZ9G {
 
     text-shadow: white 0px 0 0, white 0px 0 0, white 0 0px 0, white 0 0px 0;
@@ -104,34 +116,54 @@
     
 
     .ONLisb{
+        
         color:black
     } 
     
-      .gb_1d:not(.gb_Ie) button, .lUuFj, .mfs7Fc, .qIEjSe, .P6K39c, .PdOqHc,.yNnsfe,.KcpzD,.yY6Ze, .qNqwJf, .fbt0Xc, .Yfwt5{
-        color:#bfbebe
+       .WbUJNb .VfPpkd-jY41G-V67aGc:hover, .WbUJNb .VfPpkd-jY41G-V67aGc,   .gb_1d:not(.gb_Ie) button, .lUuFj, .mfs7Fc, .qIEjSe, .P6K39c, .PdOqHc,.yNnsfe,.KcpzD,.yY6Ze, .qNqwJf, .fbt0Xc, .Yfwt5{
+        color:#c7c6c6
     }
     
-    .stxVfe .GqNdIe{ 
+    
+    .VfPpkd-AznF2e:hover {
+        
+        background:#4791e4
+    }
+   #gb#gb a.gb_d:hover, 
+          .gb_Oc:hover,
+    .hSGhwc-ZlY4af, .hSGhwc-IOpRCf, .stxVfe .GqNdIe{ 
         color:rgb(0, 128, 255)
     }
-    .dFVrsd .AyIYI{
+   .gb_Qe, .dFVrsd .AyIYI{
         border:rgb(0,128,2555)
     }
     
-     .dFVrsd, .gb_1d, .gb_1d.gb_we{
+    .gb_0d
+    {
+
+        background:black;
+        box-shadow: 
+        0 1px 12px rgb(0, 128, 255), 
+        0 1px 12px rgb(0, 128, 255);
+    }
+    
+    .gb_0d, .hSGhwc, .dFVrsd, .gb_1d, .gb_1d.gb_we{
         box-shadow: 
         0 1px 12px rgb(0, 128, 255), 
         0 1px 12px rgb(0, 128, 255);
         
     }
-    .nz7KN {
+   .nz7KN {
         padding-left: 54px;
         padding-right: 54px;
         box-shadow: 
         0 1px 12px rgb(0, 128, 255), 
         0 1px 12px rgb(0, 128, 255);}
         }
-
+    .dFVrsd .AyIYI{
+        background:#0000004f
+    }
+     
     .VfPpkd-YVzG2b:hover,
     .VuraBe:hover,
     .NaLFgc:hover,    
@@ -149,11 +181,10 @@
     .fgdCnd.HcKLRc:hover,
     .Usd1Ac:hover,
     .Usd1Ac,
-    .dFVrsd .AyIYI,
+    
     .AyIYI:hover, .AyIYI:focus,
-.fgdCnd:hover
-
+.fgdCnd:hover   
 
      {
-        background:#7ecece4f
+        background:#0000004f
      }

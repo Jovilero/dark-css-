@@ -12,9 +12,12 @@
         background-color: #000000 !important; /* Fondo negro */
         color: #ffffff !important; /* Texto blanco */
     }
-
+:root {
+    --boq-chrometransition-background: #000000;
+    --boq-chrometransition-active-background-opacity: 0.8;
+}
     /* Ajustar colores de otros elementos */
-   
+    
     .CrPloe, .lzO0Ed,
     .g4E9Cb .ZAGvjd,
     .uDqevd, .FEFWbc, .RCcRmb, 
@@ -204,6 +207,16 @@
         0 1px 12px rgb(0, 128, 255),
         0 1px 12px rgb(0, 128, 255);
     }
+    .gb_Fa.gb_Hd .gb_md, .gb_md{
+        background-color: #000
+    }
         
-    
+    .gb_Fa {
+        color:red
+    }
+    @media screen and (max-width: 768px) {
+    .KdK6Xc, .fW22Te {
+        background-color: black
+        }
+    }
 }
